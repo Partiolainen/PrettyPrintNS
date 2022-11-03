@@ -7,6 +7,8 @@
     <Authors>Partiolainen</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/Partiolainen/PrettyPrintNS</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Partiolainen/PrettyPrintNS</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
