@@ -9,6 +9,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/Partiolainen/PrettyPrintNS</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Partiolainen/PrettyPrintNS</RepositoryUrl>
+    <Description>Human friendly, textual representations of duration, file size and transfer rate using standard .NET types</Description>
   </PropertyGroup>
 
 </Project>
